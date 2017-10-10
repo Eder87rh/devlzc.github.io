@@ -1,0 +1,55 @@
+/*
+ Styles to site
+ */
+
+html,
+body {
+  outline: 0 none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Header */
+.meet-header {
+  background: #563d7c;
+  padding: 200px 0;
+  color: #fff;
+}
+
+.meet-header .lead-title {
+  font-size: 48px;
+  margin-bottom: 15px;
+}
+
+.meet-header p {
+  margin: 0;
+}
+
+.meet-header .meet-btn {
+  width: 250px;
+}
+
+/* Main */
+.meet-main {
+  background: #f6f6f6;
+  padding: 100px 0;
+}
+
+.meet-main p {
+  font-size: 22px;
+}
+
+.meet-main .meet-lead {
+  font-size: 32px;
+}
+
+/* Footer */
+.meet-footer {
+  padding: 45px 0;
+  background: #2e2e2e;
+  color: #fff;
+}
+
+.meet-footer p {
+  margin: 0;
+}
